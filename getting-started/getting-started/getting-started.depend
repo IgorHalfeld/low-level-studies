@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1488665595 source:/home/igor/Documents/projects/low-level-studies/getting-started/getting-started/main.c
+	<stdio.h>
+	<stdlib.h>
+
